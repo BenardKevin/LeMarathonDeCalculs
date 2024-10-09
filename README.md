@@ -1,0 +1,2 @@
+Java exercise: "Le marathon de calculs" (with tables)
+You work for a school that organizes a calculation marathon. Students must add a series of numbers between 1 and a number given by the user. In addition, you must store each partial result of the sum in an array to reuse it later.
